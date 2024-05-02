@@ -1,0 +1,2 @@
+This repository contains the code and resources for a machine learning project that predicts the average daily temperature using a Bagging Regressor model.
+The project aims to leverage the power of ensemble learning by utilizing a Bagging Regressor to predict the average daily temperature. The model is trained on Jordan weather dataset obtained from kaggle.com and can be used to forecast the average temperature for future dates.
